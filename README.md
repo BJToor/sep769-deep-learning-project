@@ -1,5 +1,5 @@
 # sep769-deep-learning-project
-SEP 769 (Cyber Physical Systems) Deep Learning Project, Project 3 - Aerial Perspective Object Detection
+SEP 769 (Cyber Physical Systems) Deep Learning Project, Project 3 - Aerial Perspective Object Detection (Group 2)
 
 Based on the dataset resource (Kaggle): https://www.kaggle.com/bulentsiyah/semantic-drone-dataset
 
