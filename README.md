@@ -19,6 +19,6 @@ The dataset consists of 400 images that have been annotated according to twenty 
 
 Outcomes:
 
-•	Identify everyday objects such as cars and roads in bird's eye view images 
-•	Use a trained model to identify objects over a large, continuous, mapped area (i.e., your local neighborhood from google maps)
-•	Use the positioning of cars and people determined to flag areas where pedestrians may be at most risk of an accident
+- Identify everyday objects such as cars and roads in bird's eye view images
+- Use a trained model to identify objects over a large, continuous, mapped area (i.e., your local neighborhood from google maps)
+- Use the positioning of cars and people determined to flag areas where pedestrians may be at most risk of an accident
