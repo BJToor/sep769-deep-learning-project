@@ -40,3 +40,4 @@ Google Maps Images: https://www.kaggle.com/simran11011/sep769-group-2-dataset
   * gmaps_images
   * DeepLearningProject_Group2.ipynb
   * group2_vgg_segmentation.h5
+  * class_dict_seg.csv
