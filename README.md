@@ -8,10 +8,11 @@ The final cell of our code submission, titled "Running Final Model," demonstrate
 
 Datasets for models:
 Full Dataset (Provided in project outline): https://www.kaggle.com/bulentsiyah/semantic-drone-dataset
+
 Google Maps Images: https://www.kaggle.com/simran11011/sep769-group-2-dataset
 
 
-Requirements to run code submission:
+## Requirements to run code submission:
 * Download the Full Dataset and extract into selected folder
 * Download model and code submssion into selected folder
 * Download the Google Maps Images and extract into the selected folder
