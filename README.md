@@ -14,30 +14,12 @@ Project Outcomes:
 * Use the positioning of cars and people determined to flag areas where pedestrians may be at most risk of an accident
 
 ## Code Submission
-Our final code submission is the main branch of the "DeepLearningProject_Group2.ipynb" file. It includes model exploration, model development, training, and demonstrates functionality of our final trained model. Our trained model is store on Kaggle at the link below.
+Our final code submission is the main branch of the "DeepLearningProject_Group2.ipynb" file. It includes model exploration, model development, training, and demonstrates functionality of our final trained model. 
 
-Final Model Link: https://www.kaggle.com/simran11011/vgg-model?select=group2_vgg_segmentation.h5
+### Code Run Setup
 
+In order to run the notebook through Google Colab, data inflow is setup through a connection to a shared Google Drive folder. Those who have access (received via email) can mount the drive when running the code in order to pull in all the necessary image data. The notebook can be opened in Colab through GitHub if the same email is used for the GitHub account as is the one given access to the shared folder. Once the notebook is open in Google Colab with the account corresponding to the email given shared access, the notebook can be run in its entirety. To run the core functions on the initially trained model without running the full notebook, please refer to the next section for additional information.
 
 ### Demonstration of Project Requirements
 
 The final cell of our code submission, titled "Running Final Model," demonstrates fulfilment of the 3 project requirements. The final cell loads our trained model, outputs performance metrics using provided masks, displays segmentation masks, and shows examples of our collision detection algorithm. Only code essential to demonstrating the 3 project requirements is included in the final cell.
-
-
-### Datasets for models:
-Full Dataset (Provided in project outline): https://www.kaggle.com/bulentsiyah/semantic-drone-dataset
-
-Google Maps Images: https://www.kaggle.com/simran11011/sep769-group-2-dataset
-
-
-## Requirements for Running Code Submission:
-* Download the Full Dataset and extract into a selected folder
-* Download model and code submission into the selected folder
-* Download the Google Maps Images and extract into the selected folder
-* The selected folder should now have the following contents and the final submission is ready to run
-  * RGB_color_image_masks
-  * dataset
-  * gmaps_images
-  * DeepLearningProject_Group2.ipynb
-  * group2_vgg_segmentation.h5
-  * class_dict_seg.csv
