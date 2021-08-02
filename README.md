@@ -3,7 +3,7 @@ SEP 769 (Cyber Physical Systems) Deep Learning Project, Project 3 - Aerial Persp
 
 Our final code submission is the main branch of the "DeepLearningProject_Group2.ipynb" file. It includes model exploration, model development, training, and demonstrates functionality of our final trained model. Our trained model is the main branch of "group2_vgg_segmentation.h5".
 
-The final cell of our code submission, titled "Running Final Model," demonstrates fulfilment of the 3 project requirements. The final cell loads our trained model, outputs performance metrics, displays segmentation masks, and shows examples of our collision detection algorithm.
+The final cell of our code submission, titled "Running Final Model," demonstrates fulfilment of the 3 project requirements. The final cell loads our trained model, outputs performance metrics, displays segmentation masks, and shows examples of our collision detection algorithm. Only code essential to demonstrating the 3 project requirements included in the final cell.
 
 
 Datasets for models:
