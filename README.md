@@ -14,7 +14,9 @@ Project Outcomes:
 * Use the positioning of cars and people determined to flag areas where pedestrians may be at most risk of an accident
 
 ## Code Submission
-Our final code submission is the main branch of the "DeepLearningProject_Group2.ipynb" file. It includes model exploration, model development, training, and demonstrates functionality of our final trained model. Our trained model is the main branch of "group2_vgg_segmentation.h5".
+Our final code submission is the main branch of the "DeepLearningProject_Group2.ipynb" file. It includes model exploration, model development, training, and demonstrates functionality of our final trained model. Our trained model is store on Kaggle at the link below.
+
+Final Model Link: https://www.kaggle.com/simran11011/vgg-model?select=group2_vgg_segmentation.h5
 
 
 ### Demonstration of Project Requirements
