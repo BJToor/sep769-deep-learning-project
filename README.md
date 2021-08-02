@@ -12,12 +12,12 @@ Google Maps Images: https://www.kaggle.com/simran11011/sep769-group-2-dataset
 
 
 Requirements to run code submission:
-- Download the Full Dataset and extract into selected folder
-- Download model and code submssion into selected folder
-- Download the Google Maps Images and extract into the selected folder
-- The selected folder should now have the following contents and the final submission is ready to run
---RGB_color_image_masks
---dataset
---gmaps_images
---DeepLearningProject_Group2.ipynb
---DLP_Group2_model.h5
+* Download the Full Dataset and extract into selected folder
+* Download model and code submssion into selected folder
+* Download the Google Maps Images and extract into the selected folder
+* The selected folder should now have the following contents and the final submission is ready to run
+* RGB_color_image_masks
+** dataset
+** gmaps_images
+** DeepLearningProject_Group2.ipynb
+** DLP_Group2_model.h5
