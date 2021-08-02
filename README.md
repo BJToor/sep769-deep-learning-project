@@ -17,7 +17,7 @@ Requirements to run code submission:
 * Download the Google Maps Images and extract into the selected folder
 * The selected folder should now have the following contents and the final submission is ready to run
 * RGB_color_image_masks
- * dataset
- * gmaps_images
- * DeepLearningProject_Group2.ipynb
- * DLP_Group2_model.h5
+  * dataset
+  * gmaps_images
+  * DeepLearningProject_Group2.ipynb
+  * DLP_Group2_model.h5
