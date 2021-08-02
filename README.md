@@ -22,4 +22,4 @@ In order to run the notebook through Google Colab, data inflow is setup through 
 
 ### Demonstration of Project Requirements
 
-The final cell of our code submission, titled "Running Final Model," demonstrates fulfilment of the 3 project requirements. The final cell loads our trained model, outputs performance metrics using provided masks, displays segmentation masks, and shows examples of our collision detection algorithm. Only code essential to demonstrating the 3 project requirements is included in the final cell.
+The final cell of our code submission, titled "Running Final Model," demonstrates fulfillment of the 3 project requirements. The final cell loads our trained model, outputs performance metrics using provided masks, displays segmentation masks, and shows examples of our collision detection algorithm. Only code essential to demonstrating the 3 project requirements is included in the final cell.
